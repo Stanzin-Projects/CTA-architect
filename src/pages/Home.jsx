@@ -2,19 +2,19 @@ import { useState, useEffect, useCallback } from 'react'
 
 const heroImages = [
   {
-    url: 'https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=1600&q=80',
+    url: '/images/hero1.jpg',
     caption: 'IMG_9453',
   },
   {
-    url: 'https://images.unsplash.com/photo-1518005068251-37900150dfca?w=1600&q=80',
+    url: '/images/hero2.jpg',
     caption: 'IMG_20190314_124443',
   },
   {
-    url: 'https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=1600&q=80',
+    url: '/images/hero3.jpg',
     caption: 'IMG_20190312_152722',
   },
   {
-    url: 'https://images.unsplash.com/photo-1548013146-72479768bada?w=1600&q=80',
+    url: '/images/hero4.jpg',
     caption: 'IMG_9453',
   },
 ]
