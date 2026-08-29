@@ -7,7 +7,7 @@ export default function News() {
       <div className="max-w-4xl mx-auto px-6 lg:px-12 py-20">
         <p className="text-xs tracking-[0.3em] uppercase text-stone-400 mb-8">News</p>
         <p className="text-stone-600 text-base lg:text-lg leading-[2] font-light">
-          Field Architects has received national and international recognition for work that is noted
+          CTA STUDIO has received national and international recognition for work that is noted
           for its sensitivity, innovation, and contribution to sustainable, resilient futures.
         </p>
         <p className="text-stone-600 text-base lg:text-lg leading-[2] font-light mt-6">

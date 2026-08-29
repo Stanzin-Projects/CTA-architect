@@ -42,12 +42,13 @@ export default function Navbar() {
           {/* Logo */}
           <Link to="/" className="flex flex-col leading-none">
             <span
-              className="text-[22px] tracking-[0.35em] font-semibold uppercase"
+              className="text-[22px] tracking-[0.35em] font-semibold "
               style={{ fontFamily: 'Georgia, serif' }}
             >
              cta
             </span>
             <span
+              // className="text-[8px] tracking-[0.45em] uppercase -mt-0.5"
               className="text-[8px] tracking-[0.45em] uppercase -mt-0.5"
               style={{ fontFamily: 'Georgia, serif' }}
             >

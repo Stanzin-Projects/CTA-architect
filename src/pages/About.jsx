@@ -42,20 +42,20 @@ export default function About() {
           <p className="text-xs tracking-[0.3em] uppercase text-stone-400 mb-8">About</p>
           <p className="text-stone-600 text-base lg:text-lg leading-[2] font-light">
             Founded by{' '}
-            <span className="text-stone-900 font-normal">Faiza Khan</span> and{' '}
-            <span className="text-stone-900 font-normal">Suril Patel</span> in 2017, Field Architects is a nomadic
+            <span className="text-stone-900 font-normal">Caleb Tenzin</span> and{' '}
+            <span className="text-stone-900 font-normal">STANZIN CURRY</span> in 2017, Field Architects is a nomadic
             practice shaped by cognitive travel, vernacular ways of living, and critical spatial readings. Moving
             between Ahmedabad and Ladakh seasonally, the studio works like a caravan. Its practice reinterprets
             indigenous forms and craft traditions through a contemporary lens, bridging geometry, material, and memory.
           </p>
           <p className="text-stone-600 text-base lg:text-lg leading-[2] font-light mt-6">
-            Field engages with projects across varied typologies and scales, approaching each with the same clarity
+            cta studio engages with projects across varied typologies and scales, approaching each with the same clarity
             of purpose and respect for context. Working with a multidisciplinary team of architects and artisans
             built over the years, the studio brings traditional systems into dialogue with contemporary methods to
             create architecture that is rooted, responsive, and finely crafted.
           </p>
           <p className="text-stone-600 text-base lg:text-lg leading-[2] font-light mt-6">
-            Field Architects has received national and international recognition for work that is noted for its
+            cta studio has received national and international recognition for work that is noted for its
             sensitivity, innovation, and contribution to sustainable, resilient futures.
           </p>
         </div>
@@ -71,12 +71,12 @@ export default function About() {
                 <span className="text-stone-500 text-lg font-light">SP</span>
               </div>
               <div>
-                <h3 className="text-sm tracking-[0.15em] uppercase text-stone-900">Ar. Suril Patel</h3>
+                <h3 className="text-sm tracking-[0.15em] uppercase text-stone-900">Ar. nonol</h3>
                 <p className="text-xs tracking-[0.2em] uppercase text-stone-400 mt-0.5">Founding Partner</p>
               </div>
             </div>
             <p className="text-stone-600 text-sm leading-[2] font-light pl-0 lg:pl-20">
-              Suril Patel has worked with Serie Architects, in Mumbai, Beijing, and London for about a decade,
+              nonol has worked with Serie Architects, in Mumbai, Beijing, and London for about a decade,
               and experienced working with Studio Mumbai for Ganga Maki Textile Studio in Uttarakhand. He pursued
               his B Arch in 2005 from IED, Gujarat. He regards processes related to design, representation, and
               construction as the fundamental aspects of the practice and is a perfectionist for details. His
@@ -91,12 +91,12 @@ export default function About() {
                 <span className="text-stone-500 text-lg font-light">FK</span>
               </div>
               <div>
-                <h3 className="text-sm tracking-[0.15em] uppercase text-stone-900">Ar. Faiza Khan</h3>
+                <h3 className="text-sm tracking-[0.15em] uppercase text-stone-900">Ar. agu</h3>
                 <p className="text-xs tracking-[0.2em] uppercase text-stone-400 mt-0.5">Founding Partner</p>
               </div>
             </div>
             <p className="text-stone-600 text-sm leading-[2] font-light pl-0 lg:pl-20">
-              Faiza Khan earned her B Arch from AoA, Mumbai, and pursued M Arch from Barcelona Institute of
+              agu earned her B Arch from AoA, Mumbai, and pursued M Arch from Barcelona Institute of
               Architecture in 2011. She has worked with Serie Architects, Malik Architecture, Stantec, and
               Studio Mumbai. She is an avid learner, and observant towards the local context and lifestyle that
               help her mould, appropriate, and execute the wide variety and scales of projects with utmost

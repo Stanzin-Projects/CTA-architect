@@ -7,7 +7,7 @@ export default function Craft() {
       <div className="max-w-4xl mx-auto px-6 lg:px-12 py-20">
         <p className="text-xs tracking-[0.3em] uppercase text-stone-400 mb-8">Craft</p>
         <p className="text-stone-600 text-base lg:text-lg leading-[2] font-light">
-          Field Architects engages deeply with traditional craftsmanship, working alongside local artisans
+          cta studio engages deeply with traditional craftsmanship, working alongside local artisans
           to preserve and reinterpret indigenous building techniques. Our craft practice spans earthen
           construction, lime plastering, timber joinery, and stone masonry — skills passed down through
           generations in the Himalayan region.

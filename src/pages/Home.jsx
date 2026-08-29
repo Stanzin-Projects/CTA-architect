@@ -3,7 +3,7 @@ import { useState, useEffect, useCallback } from 'react'
 const heroImages = [
   {
     url: '/images/hero1.jpg',
-    caption: 'IMG_9453',
+    caption: 'NEW DELHI,INDIA',
   },
   {
     url: '/images/hero2.jpg',
@@ -17,6 +17,15 @@ const heroImages = [
     url: '/images/hero4.jpg',
     caption: 'IMG_9453',
   },
+   {
+    url: '/images/hero5.jpg',
+    caption: 'IMG_9453',
+  },
+   {
+    url: '/images/hero6.jpg',
+    caption: 'IMG_9453',
+  },
+  
 ]
 
 export default function Home() {

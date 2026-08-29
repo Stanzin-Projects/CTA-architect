@@ -7,7 +7,7 @@ export default function Academics() {
       <div className="max-w-4xl mx-auto px-6 lg:px-12 py-20">
         <p className="text-xs tracking-[0.3em] uppercase text-stone-400 mb-8">Academics</p>
         <p className="text-stone-600 text-base lg:text-lg leading-[2] font-light">
-          Field Architects is committed to knowledge-sharing through academic engagement. The studio has
+         CTA Studio is committed to knowledge-sharing through academic engagement. The studio has
           curated and conducted the two-year Passive Solar and Earth Building course, and has worked on
           research and development of earthen building systems at HIAL — Himalayan Institute of
           Alternatives, Ladakh.

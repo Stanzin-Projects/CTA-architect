@@ -6,7 +6,7 @@ export default function Contact() {
         <div className="max-w-4xl mx-auto">
           <p className="text-xs tracking-[0.3em] uppercase text-stone-400 mb-8">Contact</p>
           <p className="text-stone-600 text-base lg:text-lg leading-[2] font-light">
-            While rooted in Himalayan context, Field Architects is actively expanding its scope — bringing this
+            While rooted in Himalayan context, cta studio  is actively expanding its scope — bringing this
             ethos to diverse landscapes and communities across India and beyond. We welcome opportunities for
             collaboration, commissions, and partnerships that value contextual design and material sensitivity.
           </p>
@@ -22,16 +22,16 @@ export default function Contact() {
           <div className="grid grid-cols-1 md:grid-cols-2 gap-12 lg:gap-20">
             {/* Ladakh */}
             <div>
-              <h3 className="text-xs tracking-[0.3em] uppercase text-stone-900 mb-6 font-medium">Ladakh</h3>
+              <h3 className="text-xs tracking-[0.3em] uppercase text-stone-900 mb-6 font-medium">Delhi</h3>
               <div className="space-y-4 text-sm text-stone-500 leading-relaxed">
-                <p>Field Studios Workshop,</p>
-                <p>near Amazon warehouse, Agling,</p>
-                <p>Leh, Ladakh (UT), India</p>
+                <p>CTA Studios Workshop,</p>
+                <p>near Alina saloon,</p>
+                <p>Delhi (UT), India</p>
                 <p>194101</p>
               </div>
               <div className="mt-8 pt-6 border-t border-stone-200">
                 <p className="text-xs tracking-[0.15em] uppercase text-stone-400 mb-2">Principal Architect</p>
-                <p className="text-sm text-stone-800">Ar. Faiza Khan</p>
+                <p className="text-sm text-stone-800">Ar. Caleb Tenzin</p>
                 <a
                   href="mailto:faiza@fieldarchitects.in"
                   className="text-sm text-stone-500 hover:text-stone-900 transition-colors underline underline-offset-4 decoration-stone-300"
