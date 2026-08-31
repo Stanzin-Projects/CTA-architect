@@ -9,6 +9,7 @@ import Craft from './pages/Craft'
 import Academics from './pages/Academics'
 import News from './pages/News'
 import Contact from './pages/Contact'
+import Journey from './pages/Journey'
 import './index.css'
 
 function ScrollToTop() {
@@ -29,6 +30,7 @@ function App() {
           <Routes>
             <Route path="/" element={<Home />} />
             <Route path="/about" element={<About />} />
+            <Route path="/about/journey" element={<Journey />} />
             <Route path="/projects" element={<Projects />} />
             <Route path="/projects/:id" element={<ProjectDetail />} />
             <Route path="/craft" element={<Craft />} />

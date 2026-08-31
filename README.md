@@ -1,6 +1,6 @@
 # CTA Architects
 
-A modern architectural design studio website built with React and TailwindCSS — inspired by [fieldarchitects.in](https://www.fieldarchitects.in/).
+A modern architectural design studio website built with React and TailwindCSS 
 
 ![CTA Architects Screenshot](public/images/screenshot.png)
 

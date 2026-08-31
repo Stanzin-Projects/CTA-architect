@@ -1,4 +1,4 @@
-import { useParams, Link, useNavigate } from 'react-router-dom'
+import { useParams, Link } from 'react-router-dom'
 import { useState, useEffect, useCallback } from 'react'
 
 const projectsOrder = [
@@ -662,7 +662,6 @@ function ImageSlider({ images, title }) {
 /* ─── Project Detail Page ─── */
 export default function ProjectDetail() {
   const { id } = useParams()
-  const navigate = useNavigate()
   const project = projectsData[id]
   const currentIndex = projectsOrder.indexOf(id)
 
@@ -690,10 +689,6 @@ export default function ProjectDetail() {
   const nextIndex = (currentIndex + 1) % projectsOrder.length
   const nextId = projectsOrder[nextIndex]
   const nextProject = projectsData[nextId]
-
-  const goToNextProject = () => {
-    navigate(`/projects/${nextId}`)
-  }
 
   const metaFields = [
     { label: 'YEAR', value: metadata.year },
@@ -762,9 +757,10 @@ export default function ProjectDetail() {
       </div>
 
       {/* Next Project */}
-      <button
-        onClick={goToNextProject}
-        className="w-full cursor-pointer group"
+      <Link
+        to={`/projects/${nextId}`}
+        className="block w-full group"
+        onClick={() => window.scrollTo(0, 0)}
       >
         <div className="max-w-[900px] mx-auto px-6 lg:px-12 py-14 lg:py-16">
           <p className="text-[9px] tracking-[0.3em] uppercase text-stone-300 mb-4">
@@ -782,7 +778,7 @@ export default function ProjectDetail() {
             {nextProject.metadata.category}
           </p>
         </div>
-      </button>
+      </Link>
     </div>
   )
 }
